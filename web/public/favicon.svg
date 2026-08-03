@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="漓观">
+  <rect width="64" height="64" rx="10" fill="#102e2a"/>
+  <path d="M11 42c8-4 13-11 18-23 4 8 7 12 11 17 3-5 6-10 9-17 2 8 4 14 7 19-7-2-12-2-18 1-9 5-17 6-27 3Z" fill="#dff4ed"/>
+  <path d="M13 47c9 3 16 2 24-2 7-4 13-4 18-1-6 0-11 2-17 5-9 5-17 5-25-2Z" fill="#49c49e"/>
+</svg>

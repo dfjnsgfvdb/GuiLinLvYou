@@ -1,0 +1,98 @@
+[
+  {
+    "title": "象鼻山景区节假日入口排队时间较长",
+    "content": "2026年7月20日下午，部分游客反馈象鼻山景区入口排队约四十分钟，现场遮阳区域不足。景区工作人员随后增加了两条验票通道，并引导游客分时入园。游客建议节假日继续优化排队秩序和饮水点设置。",
+    "source": "桂林旅游测试新闻",
+    "url": "https://example.test/guilin/elephant-hill-queue",
+    "author": "测试编辑部",
+    "publish_time": "2026-07-20 16:30:00"
+  },
+  {
+    "title": "象鼻山志愿服务获得游客好评",
+    "content": "游客在评论中表示，象鼻山景区志愿者主动为老人提供路线指引和轮椅借用服务，服务态度热情，游览体验较好。评论同时建议在出口增加公共交通换乘说明。",
+    "source": "游客评论测试平台",
+    "url": "https://example.test/guilin/elephant-hill-service",
+    "author": "测试游客A",
+    "publish_time": "2026-07-21 10:15:00"
+  },
+  {
+    "title": "漓江游船码头暑期客流集中",
+    "content": "暑期漓江磨盘山码头上午客流较为集中，游客反映取票和登船排队时间偏长。运营方已增加现场引导人员，并提醒游客提前预约、错峰到达。暂未收到安全事故报告。",
+    "source": "桂林交通舆情测试源",
+    "url": "https://example.test/guilin/lijiang-cruise-crowd",
+    "author": "测试观察员",
+    "publish_time": "2026-07-22 09:40:00"
+  },
+  {
+    "title": "漓江游览沿线风景获得集中好评",
+    "content": "多名游客评价漓江游船沿线景色漂亮，工作人员讲解清晰，整体体验舒适。少数评论建议增加外语讲解场次并改善候船区座椅。",
+    "source": "游客评论测试平台",
+    "url": "https://example.test/guilin/lijiang-positive",
+    "author": "测试游客B",
+    "publish_time": "2026-07-22 14:20:00"
+  },
+  {
+    "title": "阳朔西街部分餐饮明码标价不清引发投诉",
+    "content": "有游客投诉阳朔西街个别餐饮店菜单价格标注不清，结账时产生价格争议。当地市场监管人员已对涉事商户进行核查，要求完善明码标价并保留消费凭证。",
+    "source": "消费投诉测试平台",
+    "url": "https://example.test/yangshuo/west-street-price",
+    "author": "测试投诉用户",
+    "publish_time": "2026-07-23 18:05:00"
+  },
+  {
+    "title": "阳朔西街夜间人流拥挤",
+    "content": "周末夜间阳朔西街人流密集，部分路段出现短时拥堵和排队。现场管理人员设置了单向通行提示，游客建议加强高峰时段分流并规范电动车停放。",
+    "source": "社交媒体测试舆情",
+    "url": "https://example.test/yangshuo/west-street-crowd",
+    "author": "测试账号C",
+    "publish_time": "2026-07-24 21:10:00"
+  },
+  {
+    "title": "龙脊梯田接驳车候车时间引发差评",
+    "content": "游客反映龙脊梯田景区下午返程接驳车班次不足，候车时间超过一小时，现场信息提示不够清晰。景区表示将根据客流增加车辆并更新候车区广播。",
+    "source": "旅游评价测试平台",
+    "url": "https://example.test/longji/shuttle-bus",
+    "author": "测试游客D",
+    "publish_time": "2026-07-25 17:45:00"
+  },
+  {
+    "title": "龙脊梯田雨后步道湿滑存在安全风险",
+    "content": "雨后龙脊梯田部分石板步道湿滑，有游客摔倒后轻微擦伤。景区在湿滑路段增设安全提示和临时防滑垫，并提醒游客穿防滑鞋、避免靠近未设护栏的边缘。",
+    "source": "景区安全测试通报",
+    "url": "https://example.test/longji/safety-warning",
+    "author": "测试安全员",
+    "publish_time": "2026-07-26 11:00:00"
+  },
+  {
+    "title": "两江四湖夜游码头垃圾清理不及时",
+    "content": "游客评论称两江四湖夜游散场后，码头附近出现饮料杯和包装袋堆积，环境卫生受到影响。保洁人员随后完成清理，运营方表示将增加夜间巡回保洁频次。",
+    "source": "城市舆情测试平台",
+    "url": "https://example.test/guilin/two-rivers-sanitation",
+    "author": "测试市民E",
+    "publish_time": "2026-07-27 22:15:00"
+  },
+  {
+    "title": "独秀峰王城讲解服务评价良好",
+    "content": "游客对独秀峰王城景区的历史文化讲解给予好评，认为讲解员内容丰富、路线安排合理。部分游客建议控制团队讲解音量，减少不同团队之间的相互干扰。",
+    "source": "游客评论测试平台",
+    "url": "https://example.test/guilin/duxiu-peak-guide",
+    "author": "测试游客F",
+    "publish_time": "2026-07-28 13:25:00"
+  },
+  {
+    "title": "芦笛岩停车场高峰期出现拥堵",
+    "content": "芦笛岩景区停车场在旅行团集中到达时出现短时拥堵，入口车辆排队影响周边道路通行。管理方安排人员疏导，并建议自驾游客优先选择外围停车场后换乘。",
+    "source": "交通舆情测试源",
+    "url": "https://example.test/guilin/reed-flute-parking",
+    "author": "测试观察员G",
+    "publish_time": "2026-07-29 10:50:00"
+  },
+  {
+    "title": "遇龙河竹筏退票流程说明不足",
+    "content": "部分游客因行程变化申请遇龙河竹筏退票时，反映不同渠道的退款说明不一致，客服回复较慢。运营方已统一线上退票说明，并承诺缩短高峰期客服响应时间。",
+    "source": "消费投诉测试平台",
+    "url": "https://example.test/yangshuo/yulong-refund",
+    "author": "测试投诉用户H",
+    "publish_time": "2026-07-30 15:35:00"
+  }
+]

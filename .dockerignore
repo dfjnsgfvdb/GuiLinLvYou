@@ -1,0 +1,13 @@
+.git/
+.idea/
+tests/
+images/
+.venv/
+.env
+.env.*
+!.env.example
+**/__pycache__/
+web/node_modules/
+web/dist/
+docker/volume/
+data/tourism_index/
